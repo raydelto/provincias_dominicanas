@@ -1,3 +1,7 @@
-# Provincias de la República Dominicana
+# Provincias de la RepÃºblica Dominicana
 
-Este simple proyecto pone a disposición del dominio público todas las provincias, municipios y distritos municipales de la República Dominicana en distintos formatos.
+Este simple proyecto pone a disposiciÃ³n del dominio pÃºblico todas las provincias, municipios y distritos municipales de la RepÃºblica Dominicana en distintos formatos.
+
+Actualmente tenemos disponible el script  para importar a MySQL , si quieres aportar esta data en otro formato eres bienvenido de hacer un pull request.
+
+SÃ­gueme en twitter (@raydelto).  
