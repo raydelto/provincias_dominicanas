@@ -6,5 +6,5 @@ Actualmente tenemos disponible el script  para importar a MySQL, Oracle y a Micr
 
 Sígueme en twitter (@raydelto).  
 
-Estos datos sobre las provincias dominicanas pueden ser accedidas mediante un API restful cuyo código y documentación pueden ser accedidos mediante la siguiente ruta: https://github.com/raydelto/provincias_dominicanas_api
+Estos datos sobre las provincias dominicanas pueden ser accedidos mediante un API restful cuyo código y documentación pueden ser accedidos mediante la siguiente ruta: https://github.com/raydelto/provincias_dominicanas_api
 
