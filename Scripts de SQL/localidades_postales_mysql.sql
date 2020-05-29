@@ -2368,8 +2368,6 @@ INSERT INTO `localidades_postales` (`id`, `provincia_id`, `localidad`, `codigo_p
 ('2342', '4', 'Plaza Beller', '63003', '', '1'),
 ('2343', '13', 'Mama Tingo', '23002', '', '1'),
 ('2344', '19', 'Barrio La Ceja', '92001', '', '1'),
-('2345', '19', 'Barrio La Ceja', '92001', '', '1');
-
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
 /*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
